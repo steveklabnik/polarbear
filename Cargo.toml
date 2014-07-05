@@ -1,0 +1,10 @@
+[package]
+
+name = "polarbear"
+version = "0.0.1"
+authors = [ "ralph.tice@gmail.com" ]
+
+[[lib]]
+
+name = "polarbear" # the name of the client library
+path = "src/zk/lib.rs"
