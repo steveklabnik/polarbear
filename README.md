@@ -8,6 +8,10 @@ Step 3) Parity with [Curator](https://github.com/apache/curator)
 
 Step 4) There is no step 4.
 
+Current progress: 2% towards completion of Step 1.
+
+[![Build Status](https://travis-ci.org/ralph-tice/polarbear.svg?branch=master)](https://travis-ci.org/ralph-tice/polarbear)
+
 ## License
 
 polarbear is primarily distributed under the terms of both the MIT license
