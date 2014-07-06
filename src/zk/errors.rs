@@ -1,9 +1,7 @@
 mod errors {
-  /* cribbed from https://github.com/apache/zookeeper/blob/trunk/src/c/include/zookeeper.h 
-   s/\/*!</\/*/
-  */
+  /* cribbed from https://github.com/apache/zookeeper/blob/trunk/src/c/include/zookeeper.h */
 
-  pub enum ZOO_ERRORS {
+  pub enum ZOOERRORS {
     ZOK = 0, /* Everything is OK */
 
     /** System and server-side errors.

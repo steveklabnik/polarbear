@@ -7,4 +7,4 @@ authors = [ "ralph.tice@gmail.com" ]
 [[lib]]
 
 name = "polarbear" # the name of the client library
-path = "src/zk/lib.rs"
+path = "src/zk.rs"
